@@ -1,7 +1,7 @@
 # Jairo Doni
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologias e adoro um desafio.
+Sou apaixonado por tecnologias e adoro um desafio.<br/>
 Sou um FullStack Developer :computer:
 
  <br/> 🤔 &nbsp; Buscando por um emprego na area e trabalhando em projetos pessoais para aprimoramento pessoal.
