@@ -4,7 +4,7 @@
 Sou apaixonado por tecnologias e adoro um desafio.<br/>
 Sou um FullStack Developer :computer:
 
- <br/> 🤔 &nbsp; Buscando por um emprego na area e trabalhando em projetos pessoais para aprimoramento pessoal.
+ <br/> 🤔 &nbsp; Buscando por uma oportunidade de trabalhar na area e estou trabalhando em projetos pessoais para aprimoramento pessoal.
  <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS, MySQL, MongoDB, Git & Figma.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & CSS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
