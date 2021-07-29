@@ -26,12 +26,10 @@ Sou um Frontend Developer :computer:
 
 ##
 
-
-
  <div>
-  <a href="https://www.linkedin.com/in/jairodoni/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+   <a href="https://www.linkedin.com/in/jairodoni/">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
+   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
 </div>
  
 <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
