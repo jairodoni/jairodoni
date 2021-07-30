@@ -32,7 +32,7 @@ Sou um Frontend Developer :computer:
    <img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
 </div>
  
-![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg) --> 
  
 
  <!-- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & CSS. --> 
