@@ -20,6 +20,7 @@ Sou um Frontend Developer :computer:
  <code><img height="20" src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"></code>
  <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logoColor=white"></code>
+ <code><img height="20" src="https://img.shields.io/badge/-SASS-FF69B4?style=flat&logoColor=pink"></code>
   <code><img height="20" src="https://img.shields.io/badge/-MySQL-black?style=flat"></code>
   
 </div>
