@@ -9,7 +9,7 @@ Sou um Frontend Developer :computer:
 <img
 	src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
  alt="jairodoni github stats"
-	width="35%"
+	width="30%"
 	align="right"
 />
 
@@ -17,6 +17,7 @@ Sou um Frontend Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS, MySQL, MongoDB, Git & Figma.
  <br/> 🎓👨‍🎓 Sou Graduado em Engenharia de Software
  <br/> 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
+ <br/>
 
 📬 Meus contatos:
 
@@ -29,42 +30,23 @@ Sou um Frontend Developer :computer:
  
 :computer: &nbsp; Minhas stacks: 
 <div style="display: flex;justify-content: space-around">
-<!--  <code margin="5"> -->
-  <code>
-   <img height="21" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
-  </code>
-  <code>
-   <img height="21" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
- </code>
+  <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
+  <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB"></code>
+  <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
+  <code><img height="21" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"></code>
+  <code><img height="21" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></code>
 </div>
 
 ##
 
  <div>
    <a href="https://www.linkedin.com/in/jairodoni/">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
-   <img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
+   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
  </div>
  
  
