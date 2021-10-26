@@ -45,10 +45,10 @@ Sou um Frontend Developer :computer:
 
  <div>
     <a href="https://www.linkedin.com/in/jairodoni/">
-        <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
+        <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
     </a>
     <a href="https://www.linkedin.com/in/jairodoni/">
-        <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
     </a>
  </div>
  
