@@ -37,18 +37,18 @@ Sou um Frontend Developer :computer:
   <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
-  <code><img height="21" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"></code>
-  <code><img height="21" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></code>
 </div>
 
 ##
 
  <div>
     <a href="https://www.linkedin.com/in/jairodoni/">
-        <img height="155em"  src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
+        <img height="155em"  src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues&card_width=300px"/>
     </a>
     <a href="https://www.linkedin.com/in/jairodoni/">
-        <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br&hide=Lua"/>
+        <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br&hide=Lua&langs_count=5&card_width=250px"/>
     </a>
  </div>
  
