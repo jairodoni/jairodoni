@@ -9,7 +9,7 @@ Sou um Frontend Developer :computer:
 <img
 	src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
  alt="jairodoni github stats"
-	width="30%"
+	width="35%"
 	align="right"
 />
 
@@ -29,7 +29,7 @@ Sou um Frontend Developer :computer:
 
  
 :computer: &nbsp; Minhas stacks: 
-<div style="display: flex;justify-content: space-around">
+<div style="display: inline-block">
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB"></code>
@@ -45,8 +45,8 @@ Sou um Frontend Developer :computer:
 
  <div>
    <a href="https://www.linkedin.com/in/jairodoni/">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
-   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
  </div>
  
  
