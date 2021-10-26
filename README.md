@@ -2,27 +2,61 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por tecnologias e adoro um desafio.<br/>
-Sou um Frontend Developer :computer:
+Sou um Frontend Developer :computer: 
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jairodoni.jairodoni" alt="visitors"> --> 
 
- <br/> 🤔 &nbsp; Buscando por uma oportunidade de trabalhar na area e estou trabalhando em projetos pessoais para me aprimorar.
+<!-- IMAGEM -->
+<img
+	src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
+ alt="jairodoni github stats"
+	width="35%"
+	align="right"
+/>
+
+ <br/> 🤔 &nbsp; Atualmente estou buscando por uma oportunidade de trabalho e estudando muito.
  <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS, MySQL, MongoDB, Git & Figma.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JairoDoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairodoni/)](https://www.linkedin.com/in/jairodoni/) 
- | 
- [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com)
+ <br/> 🎓👨‍🎓 Sou Graduado em Engenharia de Software
+ <br/> 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
+
+📬 Meus contatos:
+
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jairodoni/)
+ [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
+
+[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](https://relic-seahorse-d4c.notion.site/Portfolio-Jairo-Doni-1469755892a0421fb23b5dd596de32f1)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/174tOuHsoRAFZyL8cwk_V9paXYP6xefBR?usp=sharing)
+
  
 :computer: &nbsp; Minhas stacks: 
-<div style="display: inline_block">
-  <code><img height="20" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-React-black?style=flat&logo=react"></code>
-  <code><img height="20" src="https://camo.githubusercontent.com/483be43ad78324ee7065df7061ddf6896a29e2db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"></code>
- <code><img height="20" src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"></code>
- <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logoColor=white"></code>
- <code><img height="20" src="https://img.shields.io/badge/-SASS-FF69B4?style=flat&logoColor=pink"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-MySQL-black?style=flat"></code>
-  
+<div style="display: flex;justify-content: space-around">
+<!--  <code margin="5"> -->
+  <code>
+   <img height="21" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
+  </code>
+  <code>
+   <img height="21" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+ </code>
 </div>
 
 ##
@@ -31,11 +65,20 @@ Sou um Frontend Developer :computer:
    <a href="https://www.linkedin.com/in/jairodoni/">
    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues"/>
    <img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
-</div>
+ </div>
+ 
+ 
+
  
 <!-- ![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg) --> 
  
 
  <!-- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & CSS. --> 
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues)-->
+
+ 
+ <!-- <br/> 💬 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JairoDoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairodoni/)](https://www.linkedin.com/in/jairodoni/) 
+ | 
+ [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) -->
+ 
  
