@@ -2,7 +2,7 @@
 
 ## 👋 Olá pessoal, bem-vindo ao meu perfil!!! 
 Sou apaixonado por tecnologias e adoro um desafio.<br/>
-Sou Frontend Developer :computer: 
+Sou Desenvolvedor Frontend :computer: 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jairodoni.jairodoni" alt="visitors"> --> 
 
 <!-- IMAGEM -->
