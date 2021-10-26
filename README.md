@@ -1,6 +1,6 @@
 # Jairo Doni
 
-## Olá pessoal 👋
+## 👋 Olá pessoal, bem-vindo ao meu perfil!!! 
 Sou apaixonado por tecnologias e adoro um desafio.<br/>
 Sou um Frontend Developer :computer: 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jairodoni.jairodoni" alt="visitors"> --> 
@@ -65,5 +65,7 @@ Sou um Frontend Developer :computer:
  <!-- <br/> 💬 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JairoDoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairodoni/)](https://www.linkedin.com/in/jairodoni/) 
  | 
  [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) -->
+ 
+<!--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
  
  
