@@ -48,7 +48,7 @@ Sou um Frontend Developer :computer:
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jairodoni&theme=nightowl&show_icons=true&locale=pt-br&hide=issues&hide_rank=true"/>
     </a>
     <a href="https://www.linkedin.com/in/jairodoni/">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br&hide=Lua&langs_count=5&card_width=230px"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodoni&layout=compact&langs_count=7&theme=nightowl&locale=pt-br&hide=Lua&langs_count=5"/>
     </a>
  </div>
  
