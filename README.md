@@ -1,3 +1,4 @@
+
 # Jairo Doni
 
 ## 👋 Olá pessoal, bem-vindo ao meu perfil!!! 
@@ -6,18 +7,22 @@ Sou Desenvolvedor Frontend :computer:
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jairodoni.jairodoni" alt="visitors"> --> 
 
 <!-- IMAGEM -->
-<img
-	src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
- alt="jairodoni github stats"
-	width="35%"
-	align="right"
-/>
+ <img
+   src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
+   alt="jairodoni github stats"
+   width="35%"
+   align="right"
+ />
 
- <br/> 🤔 &nbsp; Atualmente estou buscando por uma oportunidade de trabalho e estudando muito.
- <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS, MySQL, MongoDB, Git & Figma.
- <br/> 🎓👨‍🎓 Sou Graduado em Engenharia de Software
- <br/> 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
+
+ <br/> - 🤔 &nbsp;  Atualmente estou buscando por uma oportunidade de trabalho e estudando muito.
+ <br/> - :blush: &nbsp; Posso te ajudar com JavaScript, CSS, MySQL, MongoDB, Git & Figma.
+ <br/> - 🎓👨‍🎓 Sou Graduado em Engenharia de Software.
+ <br/> - 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
  <br/>
+ 
+
+
 
 📬 Meus contatos:
 
