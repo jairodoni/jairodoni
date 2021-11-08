@@ -29,8 +29,8 @@ Sou Desenvolvedor Frontend :computer:
 [![linked-in](https://img.shields.io/badge/Linkedin_|_JairoDoni-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jairodoni/)
  [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
 
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?logo=Google-chrome&logoColor=F7DF1E)](https://relic-seahorse-d4c.notion.site/Portfolio-Jairo-Doni-1469755892a0421fb23b5dd596de32f1)
-[![resume](https://img.shields.io/badge/Resume-4285F4?logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/174tOuHsoRAFZyL8cwk_V9paXYP6xefBR?usp=sharing)
+[![portfolio](https://img.shields.io/badge/Portfolio-323330?logo=Google-chrome&logoColor=F7DF1E)](https://donicode.vercel.app)
+[![resume](https://img.shields.io/badge/Resume-4285F4?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
 
  
 :computer: &nbsp; Minhas stacks: 
