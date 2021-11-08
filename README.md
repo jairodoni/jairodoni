@@ -30,7 +30,7 @@ Sou Desenvolvedor Frontend :computer:
  [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
 
 
-<a href="https://donicode.vercel.app" target="_blank">
+<a href="https://donicode.vercel.app" target="blank">
   <img height="20" src="https://img.shields.io/badge/Portfolio-323330?logo=Google-chrome&logoColor=F7DF1E">
 </a>
 <a href="https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view" target="_blank">
