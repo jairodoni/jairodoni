@@ -31,7 +31,7 @@ Sou Desenvolvedor Frontend :computer:
 
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?logo=Google-chrome&logoColor=F7DF1E)](https://donicode.vercel.app)
-[![resume](https://img.shields.io/badge/Resume-4285F4?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
+[![resume](https://img.shields.io/badge/Currículo-4285F4?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
 
 
  
