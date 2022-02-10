@@ -62,7 +62,7 @@ Sou Desenvolvedor Frontend :computer:
  
 
  
-![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg) -->
  
 
  <!-- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & CSS. --> 
