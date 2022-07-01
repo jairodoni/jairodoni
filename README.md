@@ -45,7 +45,6 @@ Sou Desenvolvedor Frontend :computer:
   <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></code>
 </div>
 
 ##
