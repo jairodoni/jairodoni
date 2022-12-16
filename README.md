@@ -16,7 +16,7 @@ Sou Desenvolvedor Frontend :computer:
 
 
  <br/> - 🚀 &nbsp;  Atualmente estou iniciando minha carreira, trabalhando muito e aprendendo a cada dia.
- <br/> - :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, Git & Figma.
+ <br/> - :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, React Native, Git & Figma.
  <br/> - 🎓👨‍🎓 Sou formado em Engenharia de Software.
  <br/> - 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
  <br/>
