@@ -41,6 +41,7 @@ Sou Desenvolvedor Frontend :computer:
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB"></code>
   <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"></code>
+ <code><img height="20" src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white"></code>
 <!--   <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></code> -->
   <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
