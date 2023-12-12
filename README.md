@@ -29,6 +29,7 @@ Sou Desenvolvedor Frontend :computer:
  <br/> - 🚀 &nbsp;  Seguindo carreira como Programador Frontend, trabalhando muito e aprendendo a cada dia.
  <br/> - :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, React Native, Next.js, Git & Figma.
  <br/> - 🎓👨‍🎓 Sou formado em Engenharia de Software.
+ <br/> - 💼 Trabalhei no LabSoft(SoftJr) e na Scale Systems, tenho 2 anos no mercado de trabalho.
  <br/> - 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
  <br/>
 
