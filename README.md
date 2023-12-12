@@ -21,7 +21,7 @@
  <img
    src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
    alt="jairodoni github stats"
-   width="40%"
+   width="45%"
    align="right"
  />
 
