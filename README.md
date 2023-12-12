@@ -26,11 +26,11 @@
  />
 
 
- ##### -  🚀 &nbsp; Seguindo carreira como Programador Frontend, trabalhando muito e aprendendo a cada dia.
- ##### -  :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, React Native, Next.js, Git & Figma.
- ##### -  🎓👨‍🎓 Sou formado em Engenharia de Software.
- ##### -  💼 Trabalhei no LabSoft(SoftJr) e na Scale Systems, tenho 2 anos no mercado de trabalho.
- ##### -  👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
+ #### -  🚀 &nbsp; Seguindo carreira como Programador Frontend, trabalhando muito e aprendendo a cada dia.
+ #### -  :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, React Native, Next.js, Git & Figma.
+ #### -  🎓👨‍🎓 Sou formado em Engenharia de Software.
+ #### -  💼 Trabalhei no LabSoft(SoftJr) e na Scale Systems, tenho 2 anos no mercado de trabalho.
+ #### -  👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
  <br/>
 
 
