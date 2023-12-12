@@ -1,5 +1,13 @@
 
-# Jairo Doni
+ <img
+    src="https://i.ibb.co/x89n4x7/banner-jairo-doni-linkedin.png" 
+    alt="banner"
+    width="100%"
+    align="left"
+ />
+ 
+ <br/>
+ <br/>
 
 ## 👋 Olá pessoal, bem-vindo ao meu perfil!!! 
 
@@ -20,8 +28,6 @@ Sou Desenvolvedor Frontend :computer:
  <br/> - 🎓👨‍🎓 Sou formado em Engenharia de Software.
  <br/> - 👨‍🚀 &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, Hollow Knight e seriados no Netflix.
  <br/>
- 
-
 
 
 📬 Meus contatos:
@@ -59,8 +65,6 @@ Sou Desenvolvedor Frontend :computer:
     </a>
  </div>
  
- 
-
  
 <!-- ![Snake animation](https://github.com/jairodoni/jairodoni/blob/output/github-contribution-grid-snake.svg) -->
  
