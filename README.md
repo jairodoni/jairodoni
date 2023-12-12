@@ -1,13 +1,16 @@
 
- <img
-    src="https://i.ibb.co/x89n4x7/banner-jairo-doni-linkedin.png" 
-    alt="banner"
-    width="100%"
-    align="left"
- />
- 
- <br/>
- <br/>
+ <div>
+  <img
+     src="https://i.ibb.co/x89n4x7/banner-jairo-doni-linkedin.png" 
+     alt="banner"
+     width='100%'
+     align="left"
+  />
+ </div>
+
+ <kbd></kbd> 
+ <kbd></kbd>
+ <kbd></kbd>
 
 ## 👋 Olá pessoal, bem-vindo ao meu perfil!!! 
 
