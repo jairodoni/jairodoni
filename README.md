@@ -41,7 +41,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
 
 
-[![portfolio](https://img.shields.io/badge/Portfolio-4629F6?style=for-the-badge&logo=tmux&logoColor=white)](https://www.donecode.com.br)
+[![portfolio](https://img.shields.io/badge/Portfólio-4629F6?style=for-the-badge&logo=tmux&logoColor=white)](https://www.donecode.com.br)
 [![resume](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
 
 &nbsp;
