@@ -17,6 +17,8 @@
 ### Sou Desenvolvedor Frontend :computer: 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jairodoni.jairodoni" alt="visitors"> --> 
 
+&nbsp;
+
 <!-- IMAGEM -->
  <img
    src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
@@ -24,7 +26,6 @@
    width="45%"
    align="right"
  />
-
 
  #### -  🚀 &nbsp; Seguindo carreira como Programador Frontend, trabalhando muito e aprendendo a cada dia.
  #### -  :blush: &nbsp; Posso te ajudar com HTML, CSS, JavaScript, ReactJS, React Native, Next.js, Git & Figma.
@@ -34,20 +35,21 @@
  <br/>
 
 
-📬 Meus contatos:
+### 📬 Meus contatos:
 
-[![linked-in](https://img.shields.io/badge/Linkedin_|_JairoDoni-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jairodoni/)
- [![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
-
-
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?logo=Google-chrome&logoColor=F7DF1E)](https://www.donecode.com.br)
-[![resume](https://img.shields.io/badge/Currículo-4285F4?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
+[![linked-in](https://img.shields.io/badge/Linkedin_|_jairodoni-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jairodoni/)
+[![Gmail Badge](https://img.shields.io/badge/-jairo.doni97@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:jairo.doni97@gmail.com) 
 
 
+[![portfolio](https://img.shields.io/badge/Portfolio-4629F6?style=for-the-badge&logo=tmux&logoColor=white)](https://www.donecode.com.br)
+[![resume](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1A3NUYCGpzp-4-j_D5gzSgwnGZs0j3rXH/view)
+
+&nbsp;
  
-:computer: &nbsp; Minhas stacks: 
+ ### 💻 Minhas stacks: 
+ 
 <div style="display: inline-block">
-  <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
+  <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=flat&&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB"></code>
   <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"></code>
