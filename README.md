@@ -1,7 +1,7 @@
 
  <div>
   <img
-     src="https://i.ibb.co/8xdd6b6/1656599847681.png"
+     src="https://i.ibb.co/hMjWLFb/banner-jairo-doni-linkedin-03.png"
      alt="banner"
      width='100%'
      align="left"
